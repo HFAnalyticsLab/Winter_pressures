@@ -249,7 +249,7 @@ Sitrep_daily <- Sitrep_daily %>%
          month = format(date, format = "%B"))
 
 Sitrep_daily_STP <- Sitrep_daily %>% 
-  filter(!is.element(name, trusts_to_exclude_for_aggregation)) %>%
+  filter(!is.element(code, trusts_to_exclude_for_aggregation)) %>%
   group_by(STP, STP_code, date) %>%
   summarize(occupancy.rate.valid = sum(!is.na(occupancy.rate)),
             more.than.7.rate.valid = sum(!is.na(more.than.7.rate)),

@@ -24,7 +24,7 @@ Please note that STPs change and develop over time, therefore this resource shou
 
 ### Relevant changes since 2017/18 not reflected in this table
 
-This information is mostly based on updates from [NHS Digital](https://digital.nhs.uk/services/organisation-data-service/organisation-data-service-news-and-latest-updates/).
+This information (last updated 12.03.19) is mostly based on updates from [NHS Digital](https://digital.nhs.uk/services/organisation-data-service/organisation-data-service-news-and-latest-updates/).
 
 - STPs are evolving into [Integrated Care Systems (ICS)](https://www.england.nhs.uk/integratedcare/integrated-care-systems/)
 

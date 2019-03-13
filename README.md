@@ -30,8 +30,6 @@ This information is mostly based on updates from [NHS Digital](https://digital.n
 
 - Plymouth Hospitals NHS Trust (RK9) is now known as University Hospitals Plymouth NHS Trust (RK9)
 
-- Derby Teaching Hospitals NHS Foundation Trust (RTG) is now known as University Hospitals of Derby and Burton NHS Foundation Trust (RTG)
-
 **April 2018**
 
 - [three STPs in the north of England (E54000045, E54000046, E54000047) merged in August 2018] to form  Cumbria and North East STP (E54000049)

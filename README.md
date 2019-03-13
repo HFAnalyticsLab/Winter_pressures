@@ -32,7 +32,7 @@ This information (last updated 12.03.19) is mostly based on updates from [NHS Di
 
 **April 2018**
 
-- [three STPs in the north of England (E54000045, E54000046, E54000047) merged in August 2018] to form  Cumbria and North East STP (E54000049)
+- three STPs in the north of England (E54000045, E54000046, E54000047) merged in August 2018 to form  Cumbria and North East STP (E54000049)
 
 **June 2018**
 

@@ -10,7 +10,7 @@ This table was used to map hospital trusts to sustainability and transformation 
 
 **How was this table generated?**
 
-We manually compiled and validated it using  information related to the **2017/18** formation of 44 STPs from the [NHS England website](https://www.england.nhs.uk/integratedcare/stps/view-stps/). While some STPs have since changed this was the latest and most comprehensive information available, as far as we are aware.
+We manually compiled and validated it using  information related to the **2017/18** formation of 44 STPs from the [NHS England website](https://www.england.nhs.uk/integratedcare/stps/view-stps/). While some STPs have since changed, this was the latest and most comprehensive information available, as far as we are aware.
 
 **Special cases**
 

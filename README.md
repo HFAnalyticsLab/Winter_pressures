@@ -8,11 +8,11 @@ It can be used to re-create the analysis described in the Medium blog 'Using R t
 
 This table was used to map hospital trusts to sustainability and transformation partnerships (STPs).
 
-**How was this table generated?**
+### How was this table generated?
 
 We manually compiled and validated it using  information related to the **2017/18** formation of 44 STPs from the [NHS England website](https://www.england.nhs.uk/integratedcare/stps/view-stps/). While some STPs have since changed, this was the latest and most comprehensive information available, as far as we are aware.
 
-**Special cases**
+### Special cases
 
 The allocation of most hospital trusts to STPs was straightforward, but there were a few instances where we had to choose:
 
@@ -22,12 +22,30 @@ The allocation of most hospital trusts to STPs was straightforward, but there we
 
 Please note that STPs change and develop over time, therefore this resource should be checked before use.
 
-**Changes since 2017/18 not reflected in this table**
+### Relevant changes since 2017/18 not reflected in this table
 
-- [three STPs in the north of England (E54000045, E54000046, E54000047) merged in August 2018](https://digital.nhs.uk/services/organisation-data-service/organisation-data-service-news-and-latest-updates/august-2018-newsletter) to form  Cumbria and North East STP (E54000049)
+This information is mostly based on updates from [NHS Digital]((https://digital.nhs.uk/services/organisation-data-service/organisation-data-service-news-and-latest-updates/).
+
+- STPs are evolving into [Integrated Care Systems (ICS)](https://www.england.nhs.uk/integratedcare/integrated-care-systems/)
 
 - Plymouth Hospitals NHS Trust (RK9) is now known as University Hospitals Plymouth NHS Trust (RK9)
 
 - Derby Teaching Hospitals NHS Foundation Trust (RTG) is now known as University Hospitals of Derby and Burton NHS Foundation Trust (RTG)
 
-- Ipswich Hospital NHS Trust (RGQ) merged with Colchester Hospital University NHS Foundation Trust (RDE), now known as East Suffolk and North Essex NHS Foundation Trust (RDE)
+**April 2018**
+
+- [three STPs in the north of England (E54000045, E54000046, E54000047) merged in August 2018] to form  Cumbria and North East STP (E54000049)
+
+**June 2018**
+
+- Heart Of England NHS Foundation Trust (RR1) was acquired by University Hospitals Birmingham NHS Foundation Trust (RRK)
+
+**July 2018**
+
+- Colchester Hospital University NHS Foundation Trust (RDE) acquired Ipswich Hospital NHS Trust (RGQ), now known as East Suffolk and North Essex NHS Foundation Trust (RDE)
+
+- Derby Teaching Hospitals NHS Foundation Trust (RTG, Derbyshire STP) acquired Burton Hospitals NHS Foundation Trust (RJF, Staffordshire and Stoke on Trent STP) to form University Hospitals of Derby and Burton NHS Foundation Trust (RTG, Joined Up Care Derbyshire STP)
+
+**February 2019**
+
+- Hull and East Yorkshire Hospitals NHS Trust (RWA) became Hull University Teaching Hospitals NHS Trust (RWA) 

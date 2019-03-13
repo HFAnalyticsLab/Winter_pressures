@@ -4,7 +4,7 @@ This repo contains the R script used by the Health Foundation data analytics tea
 
 It can be used to re-create the analysis described in the Medium blog 'Using R to track NHS winter pressures'.
 
-## Trust-STP lookup table (version 25.2.2018)
+## Trust-STP lookup table
 
 This table was used to map hospital trusts to sustainability and transformation partnerships (STPs).
 

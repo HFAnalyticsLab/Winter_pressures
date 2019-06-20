@@ -228,7 +228,7 @@ Sitrep_daily <- Sitrep_daily %>%
 ### Adding organisational information: Sustainability and Transformation Partnerships (STPs)
 
 # ideally save this table as a csv for future use
-STP_lookup <- read_csv("Winter data trusts - STP lookup_190225.csv")
+STP_lookup <- read_csv("Trust-STP-lookup.csv")
 Sitrep_daily <- Sitrep_daily %>%
   left_join(STP_lookup[c('code', 'STP', 'STP_code')], by = c("code"))
 

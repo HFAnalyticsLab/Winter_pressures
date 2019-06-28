@@ -2,7 +2,7 @@
 
 This repo contains the R script used by the Health Foundation data analytics team to analyse NHS Winter Sitrep data for 2018/19.
 
-It can be used to re-create the analysis described in the Medium blog 'Using R to track NHS winter pressures'.
+It can be used to re-create the analysis described in the Medium blog ['Using R to track NHS winter pressures'](https://towardsdatascience.com/using-r-to-track-nhs-winter-pressures-fedcccce0b06).
 
 ## Trust-STP lookup table
 

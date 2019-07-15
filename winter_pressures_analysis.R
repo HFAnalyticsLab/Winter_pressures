@@ -342,7 +342,7 @@ STP_shape_monthly <- data_json_df %>%
 STP_shape_monthly <- STP_shape_monthly %>%
   # Divide variable into invervals and turn into factors
   mutate(occupancy.rate.cut = cut(occupancy.rate, breaks = c(0, 0.85, 0.9, 0.95, 1), 
-                                  labels=c("85% or less", "80-85%", "85-90%", "over 95%")),
+                                  labels=c("85% or less", "85-90%", "90-95%", "over 95%")),
          occupancy.rate.cut = factor(as.character(occupancy.rate.cut),
                                      levels = rev(levels(occupancy.rate.cut)))) %>% 
   # Remove lines relating England as a whole
@@ -357,7 +357,7 @@ map_monthly_bedocc <- ggplot() +
   geom_polygon(data = STP_shape_monthly, 
                aes(x = long, y = lat, group = group, fill = occupancy.rate.cut), 
                colour = "white") +
-  # Remove grud lines
+  # Remove grid lines
   theme_void() +
   # Ensure correct aspect ratio
   coord_map() +
@@ -366,7 +366,7 @@ map_monthly_bedocc <- ggplot() +
   # Define colour palette
   scale_fill_manual(values = c("#dd0031", '#ee7074', '#f2a0a2', '#aad3e5'), drop = FALSE) +
   guides(fill = guide_legend(ncol = 2, byrow = FALSE, label.hjust = 0)) +
-  labs(title = "Mean bed during occupancy winter 2018/19") +
+  labs(title = "Mean bed occupancy during winter 2018/19") +
   # Other design choices
   theme(plot.title = element_text(size = 25*ggplot2:::.pt, colour = "#005078", margin = margin(b = 15, unit = "mm")),
         plot.margin = margin(t = 30, l = 22, b = 30, r = 22, unit = "mm"),
@@ -379,6 +379,7 @@ map_monthly_bedocc <- ggplot() +
         legend.position = "top",
         legend.spacing.x = unit(10, "mm"),
         legend.spacing.y = unit(10, "mm"),
+        legend.key.size = unit(18, "mm"),
         strip.text = element_text(size = 16*ggplot2:::.pt, colour = "#524c48", margin = margin(b = 10))) 
 
 

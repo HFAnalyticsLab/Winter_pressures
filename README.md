@@ -9,7 +9,7 @@ This repo contains the R script used by the Health Foundation to analyse NHS Win
 * [Data sources](https://github.com/HFAnalyticsLab/Winter_pressures#data-source)
 * [How does it work?](https://github.com/HFAnalyticsLab/Winter_pressures#how-does-it-work)
 * [Authors](https://github.com/HFAnalyticsLab/Winter_pressures#authors)
-* [License}(https://github.com/HFAnalyticsLab/Winter_pressures#license)
+* [License](https://github.com/HFAnalyticsLab/Winter_pressures#license)
 
 
 ## Project Description

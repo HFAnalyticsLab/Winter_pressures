@@ -5,7 +5,7 @@ This repo contains the R script used by the Health Foundation to analyse NHS Win
 #### Project Status: Completed
 
 ## Contents
-* [Project Description][https://github.com/HFAnalyticsLab/Winter_pressures/edit/master/README.md/#project-description]
+* [Project Description](https://github.com/HFAnalyticsLab/Winter_pressures/edit/master/README.md/#project-description)
 
 ## Project Description
 

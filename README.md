@@ -20,7 +20,7 @@ The script imports indicators from different excel sheets, cleans missing data, 
 
 ## Data sources
 
-The data used was [Winter Daily SitRep data 2018/19](https://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/winter-daily-sitrep-2018-19-data/) from NHS Digital.
+We used publicly available [Winter Daily SitRep data 2018/19](https://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/winter-daily-sitrep-2018-19-data/) from NHS Digital.
 
 ### Trust-STP lookup table
 

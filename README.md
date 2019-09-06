@@ -5,7 +5,12 @@ This repo contains the R script used by the Health Foundation to analyse NHS Win
 #### Project Status: Completed
 
 ## Contents
-* [Project Description](https://github.com/HFAnalyticsLab/Winter_pressures/edit/master/README.md/#project-description)
+* [Project Description](https://github.com/HFAnalyticsLab/Winter_pressures#project-description)
+* [Data sources](https://github.com/HFAnalyticsLab/Winter_pressures#data-source)
+* [How does it work?](https://github.com/HFAnalyticsLab/Winter_pressures#how-does-it-work)
+* [Authors](https://github.com/HFAnalyticsLab/Winter_pressures#authors)
+* [License}(https://github.com/HFAnalyticsLab/Winter_pressures#license)
+
 
 ## Project Description
 
@@ -13,7 +18,7 @@ It can be used to re-create the analysis described in detail the Medium blog ['U
 
 The script imports indicators from different excel sheets, cleans missing data, aggregates the indicators by month and Sustainability and Transformation Partnership and finally visualises the results in a map.
 
-## Data source
+## Data sources
 
 The data used was [Winter Daily SitRep data 2018/19](https://www.england.nhs.uk/statistics/statistical-work-areas/winter-daily-sitreps/winter-daily-sitrep-2018-19-data/) from NHS Digital.
 

@@ -72,10 +72,10 @@ This information (last updated 12.03.19) is mostly based on updates from [NHS Di
 These scripts were written in R version (to be added) and RStudio Version 1.1.383. 
 The following R packages (available on CRAN) are needed: 
 
-* **tidyverse** - [https://www.tidyverse.org/](https://www.tidyverse.org/)
-* **broom** - [https://cran.r-project.org/web/packages/broom/index.html](https://cran.r-project.org/web/packages/broom/index.html)
-* **maptools** - [https://cran.r-project.org/web/packages/maptools/index.html](https://cran.r-project.org/web/packages/maptools/index.html)
-* **geojsonio** - [https://cran.r-project.org/web/packages/geojsonio/index.html](https://cran.r-project.org/web/packages/geojsonio/index.html
+* [**tidyverse**](https://www.tidyverse.org/)
+* [**broom**](https://cran.r-project.org/web/packages/broom/index.html)
+* [**maptools**](https://cran.r-project.org/web/packages/maptools/index.html)
+* [**geojsonio**](https://cran.r-project.org/web/packages/geojsonio/index.html)
 
 ### Getting started
 The file 'winter_pressures_analysis.R' contains the R code needed to perform the analysis. File names to download raw data from the NHS Digital website might have to be adapted as new data is released. 
@@ -84,4 +84,4 @@ The file 'winter_pressures_analysis.R' contains the R code needed to perform the
 * **Fiona Grimm** - [@fiona_grimm](https://twitter.com/fiona_grimm) - [fiona-grimm](https://github.com/fiona-grimm)
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/HFAnalyticsLab/Winter_pressures/blob/master/LICENSE).
